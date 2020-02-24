@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": "C:\\Users\\mxmar\\.virtualenvs\\djftut-fJjVhTuL\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\mxmar\\.virtualenvs\\djftut-fJjVhTuL\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.enabled": true
 }
